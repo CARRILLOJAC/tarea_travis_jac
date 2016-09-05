@@ -16,6 +16,10 @@ public class Tarea_travis_jac {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola que tal esta es la tarea de ingenieria de software");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("HOLA MIJINES");
+            
+        }
     }
     
 }
