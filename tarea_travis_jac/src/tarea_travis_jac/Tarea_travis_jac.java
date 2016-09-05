@@ -18,8 +18,13 @@ public class Tarea_travis_jac {
         System.out.println("hola que tal esta es la tarea de ingenieria de software");
         for (int i = 0; i < 10; i++) {
             System.out.println("HOLA MIJINES");
+            if (i==10) {
+                System.out.println("Chooooooo");
+            }
+            
             
         }
+       
     }
     
 }
